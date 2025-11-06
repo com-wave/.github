@@ -11,10 +11,10 @@ _Publish, schedule, and optimize your presence across all social networks from a
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-[Features](#-features) •
-[Technologies](#-technologies) •
-[Demo](#-demo) •
-[Contact](#-contact)
+[Features](#features) •
+[Technologies](#technologies) •
+[Demo](#demo) •
+[Contact](#contact)
 
 </div>
 
@@ -205,7 +205,7 @@ Adaptive design optimized for desktop, tablet, and mobile
 
 If you like Combox, don't hesitate to give us a star ⭐
 
-[⬆ Back to top](#-combox)
+[⬆ Back to top](#combox)
 
 Made with ❤️ by [William Fontaine](https://github.com/williamfontaine)
 
