@@ -16,7 +16,6 @@ Publish, schedule, and grow your presence across every major social network — 
 <br />
 
 [![Get Started](https://img.shields.io/badge/Get_Started_Free-00DC82?style=for-the-badge&logoColor=white)](https://com-box.app)
-[![View Demo](https://img.shields.io/badge/View_Demo-1a1a1a?style=for-the-badge&logoColor=white)](https://com-box.app/demo)
 
 <br />
 
