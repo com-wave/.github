@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://com-box.app/logo/ComboxHorizontal_light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://com-box.app/logo/ComboxHorizontal_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://com-box.app/logo/ComboxHorizontal_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://com-box.app/logo/ComboxHorizontal_light.png">
   <img src="https://com-box.app/logo.svg" alt="Combox" width="160" />
 </picture>
 
