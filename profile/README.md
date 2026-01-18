@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://comwave.app/logo/ComwaveHorizontal_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://comwave.app/logo/ComwaveHorizontal_light.png">
-  <img src="https://comwave.app/logo.svg" alt="Combox" width="160" />
+  <img src="https://comwave.app/logo.svg" alt="Comwave" width="160" />
 </picture>
 
 <br />
@@ -252,7 +252,7 @@ Available in **English** · **Francais** · **Espanol**
 
 <br />
 
-© 2025 Combox · Made with care in France
+© 2026 Comwave · Made with care in France
 
 </sub>
 
