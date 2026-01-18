@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://com-box.app/logo/ComboxHorizontal_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://com-box.app/logo/ComboxHorizontal_light.png">
-  <img src="https://com-box.app/logo.svg" alt="Combox" width="160" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://comwave.app/logo/ComwaveHorizontal_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://comwave.app/logo/ComwaveHorizontal_light.png">
+  <img src="https://comwave.app/logo.svg" alt="Combox" width="160" />
 </picture>
 
 <br />
@@ -15,7 +15,7 @@ Publish, schedule, and grow your presence across every major social network — 
 
 <br />
 
-[![Get Started](https://img.shields.io/badge/Get_Started_Free-00DC82?style=for-the-badge&logoColor=white)](https://com-box.app)
+[![Get Started](https://img.shields.io/badge/Get_Started_Free-00DC82?style=for-the-badge&logoColor=white)](https://comwave.app)
 
 <br />
 
@@ -86,10 +86,10 @@ You're managing 4+ social accounts. Every post means:
 
 <br />
 
-<a href="https://com-box.app"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://com-box.app"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://com-box.app"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://com-box.app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://comwave.app"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://comwave.app"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://comwave.app"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://comwave.app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br />
 <br />
@@ -233,8 +233,8 @@ You're managing 4+ social accounts. Every post means:
 
 <br />
 
-[![Start Free](https://img.shields.io/badge/Start_Free-00DC82?style=for-the-badge)](https://com-box.app)
-[![Contact Us](https://img.shields.io/badge/Contact_Us-6366F1?style=for-the-badge)](mailto:support@com-box.app)
+[![Start Free](https://img.shields.io/badge/Start_Free-00DC82?style=for-the-badge)](https://comwave.app)
+[![Contact Us](https://img.shields.io/badge/Contact_Us-6366F1?style=for-the-badge)](mailto:support@comwave.app)
 
 <br />
 
@@ -248,7 +248,7 @@ Available in **English** · **Francais** · **Espanol**
 
 <sub>
 
-**[Website](https://com-box.app)** · **[Support](mailto:support@com-box.app)**
+**[Website](https://comwave.app)** · **[Support](mailto:support@comwave.app)**
 
 <br />
 
